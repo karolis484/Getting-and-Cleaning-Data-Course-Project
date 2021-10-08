@@ -1,4 +1,4 @@
-This script:
+## Run_analysis.r script:
 1) Checks if the dataset is present, and if not - downloads and extracts it.
 2) Imports txt files with `read.table`
 
